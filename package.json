@@ -29,7 +29,7 @@
     "Drew Winget <scipioaffricanus@gmail.com> (https://aeschylus.net/)",
     "Jack Reed <phillipjreed@gmail.com> (https://www.jack-reed.com)"
   ],
-  "repository": "https://github.com/ProjectMirador/mirador",
+  "repository": "https://github.com/lsm3n/mirador",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "~4.9.1",
